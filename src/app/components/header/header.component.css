@@ -1,0 +1,57 @@
+menu{
+    background-color: rgb(12, 128, 167);
+    padding: 0;
+    margin: 0;
+}
+
+menu ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+menu ul li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav{
+    background-color: grey;
+    padding: 0;
+    margin: 0;
+}
+
+nav div{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+
+.curved {
+    position: relative;
+    background: #2182e2;
+    height: 15vh;
+}
+
+.curved::after {
+    content: '';
+    border-top-left-radius: 50% 100%;
+    border-top-right-radius: 50% 100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    height: 16%;
+  }
