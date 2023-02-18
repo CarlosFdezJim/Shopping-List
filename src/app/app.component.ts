@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AuthService } from './auth.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'shopping-list';
+
+  loggedIn: boolean = false;
+
+  constructor(private authService: AuthService) { }
+
+  ngOnInit(): void {
+    // Verificar si el usuario ha iniciado sesión
+    this.loggedIn = this.authService.isLoggedIn();
+  }
+
 }

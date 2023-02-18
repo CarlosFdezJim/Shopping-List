@@ -1,47 +1,28 @@
-menu{
-    background-color: rgb(12, 128, 167);
-    padding: 0;
+header{
     margin: 0;
+    padding: 0;
 }
 
-menu ul{
+header ul{
     display: flex;
-    margin: 0;
-    padding: 0;
     list-style: none;
 }
 
-menu ul li a{
+header ul li a{
+    font-size: x-large;
     display: block;
     color: white;
     text-decoration: none;
     padding: 10px 15px;
 }
-
-nav{
-    background-color: grey;
-    padding: 0;
-    margin: 0;
-}
-
-nav div{
-    display: flex;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-nav a{
-    display: block;
-    color: white;
-    text-decoration: none;
-    padding: 10px 15px;
-}
-
 
 .curved {
     position: relative;
-    background: #2182e2;
+    background: rgb(34,193,195);
+    background: -moz-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endColorstr="#fdbb2d",GradientType=1); 
     height: 15vh;
 }
 
@@ -54,4 +35,4 @@ nav a{
     width: 100%;
     background: #fff;
     height: 16%;
-  }
+}
