@@ -1,0 +1,412 @@
+[
+
+  {
+    "id": "12cb8344-d464-4c26-9fd1-b38cdeb44e69",
+    "title": "Coco",
+    "price": "5",
+    "quantity": "3",
+    "completed": false
+  },
+  {
+    "id": 1,
+    "title": "Manzana",
+    "price": 1.99,
+    "quantity": 5,
+    "completed": false
+  },
+  { "id": 2, "title": "Pera", "price": 2.49, "quantity": 2, "completed": true },
+  {
+    "id": 3,
+    "title": "Plátano",
+    "price": 0.99,
+    "quantity": 10,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Piña",
+    "price": 3.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Sandía",
+    "price": 4.99,
+    "quantity": 0,
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Naranja",
+    "price": 1.49,
+    "quantity": 7,
+    "completed": false
+  },
+  { "id": 7, "title": "Uvas", "price": 3.29, "quantity": 3, "completed": true },
+  {
+    "id": 8,
+    "title": "Fresa",
+    "price": 2.99,
+    "quantity": 4,
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Melón",
+    "price": 3.49,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Mango",
+    "price": 2.99,
+    "quantity": 6,
+    "completed": true
+  },
+  {
+    "id": 11,
+    "title": "Maní",
+    "price": 1.49,
+    "quantity": 8,
+    "completed": false
+  },
+  {
+    "id": 12,
+    "title": "Almendra",
+    "price": 3.99,
+    "quantity": 3,
+    "completed": true
+  },
+  {
+    "id": 13,
+    "title": "Pistachos",
+    "price": 4.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 14,
+    "title": "Anacardo",
+    "price": 3.29,
+    "quantity": 5,
+    "completed": true
+  },
+  {
+    "id": 15,
+    "title": "Huevo",
+    "price": 0.99,
+    "quantity": 12,
+    "completed": false
+  },
+  {
+    "id": 16,
+    "title": "Leche",
+    "price": 2.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 17,
+    "title": "Yogurt",
+    "price": 1.49,
+    "quantity": 6,
+    "completed": true
+  },
+  {
+    "id": 18,
+    "title": "Queso",
+    "price": 3.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 19,
+    "title": "Pan",
+    "price": 2.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 20,
+    "title": "Carne",
+    "price": 5.99,
+    "quantity": 3,
+    "completed": true
+  },
+  {
+    "id": 21,
+    "title": "Pollo",
+    "price": 4.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 22,
+    "title": "Pescado",
+    "price": 7.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 23,
+    "title": "Cebolla",
+    "price": 0.99,
+    "quantity": 5,
+    "completed": true
+  },
+  {
+    "id": 24,
+    "title": "Ajo",
+    "price": 0.49,
+    "quantity": 4,
+    "completed": false
+  },
+  {
+    "id": 25,
+    "title": "Tomate",
+    "price": 1.99,
+    "quantity": 3,
+    "completed": false
+  },
+  {
+    "id": 26,
+    "title": "Pimiento",
+    "price": 1.49,
+    "quantity": 2,
+    "completed": true
+  },
+  {
+    "id": 27,
+    "title": "Zanahoria",
+    "price": 1.49,
+    "quantity": 6,
+    "completed": false
+  },
+  {
+    "id": 28,
+    "title": "Brócoli",
+    "price": 2.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 29,
+    "title": "Coliflor",
+    "price": 2.99,
+    "quantity": 1,
+    "completed": true
+  },
+  {
+    "id": 30,
+    "title": "Espinacas",
+    "price": 1.99,
+    "quantity": 3,
+    "completed": false
+  },
+  {
+    "id": 31,
+    "title": "Lechuga",
+    "price": 1.49,
+    "quantity": 4,
+    "completed": false
+  },
+  {
+    "id": 32,
+    "title": "Papa",
+    "price": 1.49,
+    "quantity": 8,
+    "completed": true
+  },
+  {
+    "id": 33,
+    "title": "Arroz",
+    "price": 3.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 34,
+    "title": "Frijoles",
+    "price": 2.49,
+    "quantity": 4,
+    "completed": true
+  },
+  {
+    "id": 35,
+    "title": "Lentejas",
+    "price": 1.99,
+    "quantity": 3,
+    "completed": false
+  },
+  {
+    "id": 36,
+    "title": "Garbanzos",
+    "price": 2.49,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 37,
+    "title": "Chocolate",
+    "price": 2.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 38,
+    "title": "Café",
+    "price": 4.99,
+    "quantity": 1,
+    "completed": true
+  },
+  { "id": 39, "title": "Té", "price": 2.49, "quantity": 2, "completed": false },
+  {
+    "id": 40,
+    "title": "Jugo de naranja",
+    "price": 3.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 41,
+    "title": "Agua mineral",
+    "price": 1.49,
+    "quantity": 6,
+    "completed": true
+  },
+  {
+    "id": 42,
+    "title": "Galletas",
+    "price": 1.99,
+    "quantity": 3,
+    "completed": false
+  },
+  {
+    "id": 43,
+    "title": "Leche",
+    "price": 2.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 44,
+    "title": "Yogurt",
+    "price": 1.99,
+    "quantity": 4,
+    "completed": true
+  },
+  {
+    "id": 45,
+    "title": "Huevos",
+    "price": 1.99,
+    "quantity": 12,
+    "completed": false
+  },
+  {
+    "id": 46,
+    "title": "Jamón",
+    "price": 3.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 47,
+    "title": "Queso rallado",
+    "price": 2.49,
+    "quantity": 2,
+    "completed": true
+  },
+  {
+    "id": 48,
+    "title": "Aceite de oliva",
+    "price": 4.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 49,
+    "title": "Vinagre",
+    "price": 1.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 50,
+    "title": "Mostaza",
+    "price": 1.99,
+    "quantity": 1,
+    "completed": true
+  },
+  {
+    "id": 51,
+    "title": "Mayonesa",
+    "price": 2.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 52,
+    "title": "Ketchup",
+    "price": 2.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 53,
+    "title": "Salsa de soja",
+    "price": 3.99,
+    "quantity": 1,
+    "completed": true
+  },
+  {
+    "id": 54,
+    "title": "Salsa barbacoa",
+    "price": 3.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 55,
+    "title": "Salchichas",
+    "price": 3.99,
+    "quantity": 2,
+    "completed": false
+  },
+  {
+    "id": 56,
+    "title": "Pan",
+    "price": 1.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 57,
+    "title": "Mantequilla",
+    "price": 2.49,
+    "quantity": 1,
+    "completed": true
+  },
+  {
+    "id": 58,
+    "title": "Mermelada",
+    "price": 3.49,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 59,
+    "title": "Miel",
+    "price": 4.99,
+    "quantity": 1,
+    "completed": false
+  },
+  {
+    "id": 60,
+    "title": "Cereal",
+    "price": 3.99,
+    "quantity": 1,
+    "completed": true
+  }
+]
