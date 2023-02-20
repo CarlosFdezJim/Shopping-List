@@ -1,8 +1,8 @@
 <app-header></app-header>
 
-<div class="main-container">
+<div class="main-container pb-5">
     <app-total mensaje="Total por pagar: " [total]="total"></app-total>
-    <app-item 
+    <app-item class=""
         *ngFor="let item of items" 
         [item]="item" 
         (deleteItem)="deleteItem($event)"

@@ -1,6 +1,6 @@
-<div class="container row ps-5" [ngClass]="{'completed': item.completed}">
+<div class="container row py-3" [ngClass]="{'completed': item.completed}">
     <div class="title">
-        <input type="checkbox" [checked]="item.completed" (change)="onToggle(item)">
+        <input type="checkbox" class="pe-2" [checked]="item.completed" (change)="onToggle(item)">
         {{item.title }}
     </div>
     <div class="price">
@@ -13,6 +13,9 @@
         {{(item.price * item.quantity | currency : "€")}}
     </div>
     <div class="actions">
-        <button (click)="onDelete(item)">Eliminar</button>
+        <button class="btn btn-lg" (click)="onDelete(item)">Eliminar</button>
     </div>
 </div>
+
+
+
