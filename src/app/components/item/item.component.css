@@ -44,7 +44,7 @@ div{
 .actions button{
     border:none;
     font-size: 12px;
-    background-color: rgb(202, 56, 30);
+    background-color: red;
     color: white;
     padding: 5px;
     width: 100%;
